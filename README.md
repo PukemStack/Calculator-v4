@@ -1,2 +1,4 @@
 # Calculator-v4
-My new and better and greater and stronger calculator program
+Just a "simple" calculator program, what'd you expect?
+
+Also, you'll need a .NET SDK (at least version 6.0) to work.
