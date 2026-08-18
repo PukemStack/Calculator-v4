@@ -1,0 +1,15 @@
+E:\Dev\Visual Studio\source\Calcium\bin\Release\net6.0-windows\publish\a.vbs
+E:\Dev\Visual Studio\source\Calcium\bin\Release\net6.0-windows\publish\Calculator V4.exe
+E:\Dev\Visual Studio\source\Calcium\bin\Release\net6.0-windows\publish\runtimes\win-x86\native\WebView2Loader.dll
+E:\Dev\Visual Studio\source\Calcium\bin\Release\net6.0-windows\publish\runtimes\win-x64\native\WebView2Loader.dll
+E:\Dev\Visual Studio\source\Calcium\bin\Release\net6.0-windows\publish\runtimes\win-arm64\native\WebView2Loader.dll
+E:\Dev\Visual Studio\source\Calcium\bin\Release\net6.0-windows\publish\Calculator V4.dll
+E:\Dev\Visual Studio\source\Calcium\bin\Release\net6.0-windows\publish\Calculator V4.deps.json
+E:\Dev\Visual Studio\source\Calcium\bin\Release\net6.0-windows\publish\Calculator V4.runtimeconfig.json
+E:\Dev\Visual Studio\source\Calcium\bin\Release\net6.0-windows\publish\Calculator V4.pdb
+E:\Dev\Visual Studio\source\Calcium\bin\Release\net6.0-windows\publish\Microsoft.Web.WebView2.Core.dll
+E:\Dev\Visual Studio\source\Calcium\bin\Release\net6.0-windows\publish\Microsoft.Web.WebView2.WinForms.dll
+E:\Dev\Visual Studio\source\Calcium\bin\Release\net6.0-windows\publish\Microsoft.Web.WebView2.Wpf.dll
+E:\Dev\Visual Studio\source\Calcium\bin\Release\net6.0-windows\publish\Microsoft.Web.WebView2.Core.xml
+E:\Dev\Visual Studio\source\Calcium\bin\Release\net6.0-windows\publish\Microsoft.Web.WebView2.WinForms.xml
+E:\Dev\Visual Studio\source\Calcium\bin\Release\net6.0-windows\publish\Microsoft.Web.WebView2.Wpf.xml

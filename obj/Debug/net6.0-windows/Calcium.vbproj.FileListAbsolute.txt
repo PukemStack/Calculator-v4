@@ -1,0 +1,32 @@
+E:\Dev\Visual Studio\source\Calcium\bin\Debug\net6.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+E:\Dev\Visual Studio\source\Calcium\bin\Debug\net6.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+E:\Dev\Visual Studio\source\Calcium\bin\Debug\net6.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+E:\Dev\Visual Studio\source\Calcium\bin\Debug\net6.0-windows\Calculator V4.exe
+E:\Dev\Visual Studio\source\Calcium\bin\Debug\net6.0-windows\a.vbs
+E:\Dev\Visual Studio\source\Calcium\bin\Debug\net6.0-windows\Calculator V4.deps.json
+E:\Dev\Visual Studio\source\Calcium\bin\Debug\net6.0-windows\Calculator V4.runtimeconfig.json
+E:\Dev\Visual Studio\source\Calcium\bin\Debug\net6.0-windows\Calculator V4.dll
+E:\Dev\Visual Studio\source\Calcium\bin\Debug\net6.0-windows\Calculator V4.pdb
+E:\Dev\Visual Studio\source\Calcium\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.dll
+E:\Dev\Visual Studio\source\Calcium\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.dll
+E:\Dev\Visual Studio\source\Calcium\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.dll
+E:\Dev\Visual Studio\source\Calcium\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Core.xml
+E:\Dev\Visual Studio\source\Calcium\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.WinForms.xml
+E:\Dev\Visual Studio\source\Calcium\bin\Debug\net6.0-windows\Microsoft.Web.WebView2.Wpf.xml
+E:\Dev\Visual Studio\source\Calcium\obj\Debug\net6.0-windows\Calcium.vbproj.AssemblyReference.cache
+E:\Dev\Visual Studio\source\Calcium\obj\Debug\net6.0-windows\Interop.IWshRuntimeLibrary.dll
+E:\Dev\Visual Studio\source\Calcium\obj\Debug\net6.0-windows\Calcium.vbproj.ResolveComReference.cache
+E:\Dev\Visual Studio\source\Calcium\obj\Debug\net6.0-windows\Calculator_V4.Main_Form.resources
+E:\Dev\Visual Studio\source\Calcium\obj\Debug\net6.0-windows\Calculator_V4.Ads.resources
+E:\Dev\Visual Studio\source\Calcium\obj\Debug\net6.0-windows\Calculator_V4.Resources.resources
+E:\Dev\Visual Studio\source\Calcium\obj\Debug\net6.0-windows\Calcium.vbproj.GenerateResource.cache
+E:\Dev\Visual Studio\source\Calcium\obj\Debug\net6.0-windows\Calcium.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\Visual Studio\source\Calcium\obj\Debug\net6.0-windows\Calcium.AssemblyInfoInputs.cache
+E:\Dev\Visual Studio\source\Calcium\obj\Debug\net6.0-windows\Calcium.AssemblyInfo.vb
+E:\Dev\Visual Studio\source\Calcium\obj\Debug\net6.0-windows\Calcium.vbproj.CoreCompileInputs.cache
+E:\Dev\Visual Studio\source\Calcium\obj\Debug\net6.0-windows\Calcium.vbproj.Up2Date
+E:\Dev\Visual Studio\source\Calcium\obj\Debug\net6.0-windows\Calculator V4.dll
+E:\Dev\Visual Studio\source\Calcium\obj\Debug\net6.0-windows\refint\Calculator V4.dll
+E:\Dev\Visual Studio\source\Calcium\obj\Debug\net6.0-windows\Calculator V4.pdb
+E:\Dev\Visual Studio\source\Calcium\obj\Debug\net6.0-windows\Calcium.genruntimeconfig.cache
+E:\Dev\Visual Studio\source\Calcium\obj\Debug\net6.0-windows\ref\Calculator V4.dll
